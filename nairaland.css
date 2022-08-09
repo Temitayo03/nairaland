@@ -1,0 +1,37 @@
+
+h1{color:black;font-size:100%; font-family:verdana}
+img
+p{color:blue; font-size:90%;}
+form{text-align:center;}
+body{text-align:center;margin-left: 10%;margin-right: 10%;}
+h2{color:blue; font-size:90%; font-family:verdana; text-align:left;}  
+h3{color:blue; font-size:90%; font-family:verdana; text-align:left;} 
+h4{color:blue; font-size:90%; font-family:verdana; text-align:left;}  
+h5{color:blue; font-size:90%;text-align:center; font-family:verdana}  
+
+ul{color:blue; font-size:100%;text-align:center; font-family:verdana; font-style:bold; list-style-type: none; }
+  #niv {border: 2px solid lightgrey;
+        border-radius: 16px;
+         border-collapse: collapse;
+         background-color: #F8F8FF;
+     color:blue; font-size:90%;text-align:center;}
+  #niv2 {border: 2px solid lightgrey;
+        border-radius: 16px;
+         border-collapse: collapse;
+         background-color: #f2f2f2} 
+  #niv3 {border: 2px solid lightgrey;
+        border-radius: 16px;
+         background-color: #F8F8FF;
+         border-collapse: collapse;font-size:90%;text-align:center; font-family:verdana;}
+  #pic  { border: 2px solid white;border-collapse: collapse;border-radius: 12px;}
+  #niv4 {border: 2px solid lightgrey;
+        border-radius: 16px;
+         border-collapse: collapse;
+         background-color: #F8F8FF;
+         font-size:90%;
+         text-align:center;
+          font-family:verdana;}
+  #niv5 {border: 2px solid lightgrey;
+        border-radius: 16px;
+         border-collapse: collapse;
+         background-color: #f2f2f2}
